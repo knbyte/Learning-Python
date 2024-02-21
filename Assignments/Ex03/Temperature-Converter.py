@@ -1,0 +1,2 @@
+4. Temperature Converter
+Write a program that converts temperatures between Fahrenheit and Celsius. Ask the user for the temperature and the unit (Fahrenheit or Celsius), and then convert it to the other unit.

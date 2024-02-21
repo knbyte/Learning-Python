@@ -64,3 +64,38 @@ For example:
 #                                  Try the Exercise Below!                                  #
 #                                                                                           #
 ############################################################################################# 
+
+
+
+
+
+
+
+python
+Copy code
+# Prompt the user to enter numbers and operation
+num1 = float(input("Enter the first number: "))
+operator = input("Enter the operator (+, -, *, /): ")
+num2 = float(input("Enter the second number: "))
+
+# Perform the operation based on user input
+if operator == '+':
+    result = num1 + num2
+elif operator == '-':
+    result = num1 - num2
+elif operator == '*':
+    result = num1 * num2
+elif operator == '/':
+    if num2 != 0:  # Avoid division by zero
+        result = num1 / num2
+    else:
+        print("Error: Division by zero!")
+        result = None
+else:
+    print("Error: Invalid operator!")
+    result = None
+
+# Display the result
+if result is not None:
+    print("Result:", result)
+With these concepts and techniques, you should be able to implement a basic calculator program in Python.

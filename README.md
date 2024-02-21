@@ -41,3 +41,21 @@ Fibonacci-Sequence.py
 Simple-To-Do-List.py
 Rock-Paper-Scissors.py
 Word-Counter.py
+
+
+
+
+
+To complete the above assignments, you'll need a basic understanding of Python programming concepts such as:
+
+Variables and Data Types: Knowing how to work with integers, floats, strings, booleans, lists, tuples, and dictionaries.
+Control Structures: Understanding if statements, loops (for and while), and how to control the flow of your program.
+Functions: Creating and calling functions to modularize your code.
+Input and Output: Using input() function to get user input and print() function to display output.
+Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+String manipulation: Concatenating strings, slicing, and formatting.
+Random number generation: Using the random module to generate random numbers.
+Handling errors: Basic knowledge of handling exceptions using try-except blocks.
+Libraries: Familiarity with built-in Python libraries like math for mathematical operations.
+File I/O: Basic understanding of reading from and writing to files using Python.
+Most of these assignments are designed to reinforce these fundamental concepts while also providing practical problem-solving experience. As you work through them, you'll gain a deeper understanding of Python programming and its various capabilities. If you're new to Python, you may want to start with simpler assignments and gradually move on to more complex ones as you become more comfortable with the language.
