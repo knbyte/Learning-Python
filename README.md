@@ -10,7 +10,7 @@ I am a beginner at python myself, and I was finding it difficult to find free re
 ### Exercises/Practice!
 Here are some starting exercises, each one has the assignment details and skills/knowledge you'll need inside!<br>
 <br>
-I would recommed downloading the full repository and opening everything in Visual Studio Code - you can do this by running ```git clone https://github.com/knbyte/Learning-Python.git``` in your terminal or downloading using the </> Code button above!<br>
+I would recommend downloading the full repository and opening everything in Visual Studio Code - you can do this by running ```git clone https://github.com/knbyte/Learning-Python.git``` in your terminal or downloading using the </> Code button above!<br>
 <br>
 Otherwise, if you want to see each assignment individually on github the links are below!:<br>
 <br>
