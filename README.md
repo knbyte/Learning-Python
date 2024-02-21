@@ -1,6 +1,6 @@
 # Learning Python!
 
-I am a begginer at python myself, and I was finding it difficult to find free resources that gave me the basics of Python and a few learning assignments that let me build my skills form the ground up - so I figured why not make one!
+I am a beginner at python myself, and I was finding it difficult to find free resources that gave me the basics of Python and a few learning assignments that let me build my skills from the ground up - so I figured why not make one!
 
 ### Concepts
 [Basic Python Conepts](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Basic.py).<br>
