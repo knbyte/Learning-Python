@@ -1,3 +1,21 @@
+I am a begginer at python myself, and I was finding it difficult to find free resources that gave me the basics of Python and a few learning assignments that let me build my skills form the ground up - so I fifured why not make one!
+
+[If you want to have a look at some of the basic python concepts, have a look here.]()
+
+Here are some starting exercises, each one has the assignment details and skills/knowledge you'll need inside!
+
+Ex00
+[Hello, World!]()
+[Calculator
+[Guess the Number
+[Temperature Converter
+[Factorial Calculator
+[Palindrome Checker
+[Fibonacci Sequence
+[Simple To-Do List
+[Rock, Paper, Scissors Game
+[Word Counter
+
 Beginner Python Assignments
 1. Hello, World!
 Write a Python script that prints "Hello, World!" to the console.
