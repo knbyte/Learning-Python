@@ -17,7 +17,7 @@
 #                                                                                           #
 x = 5             # Integer                                                                 #
 y = 3.14          # Float                                                                   #
-name = "AydanS"    # String                                                                  #
+name = "Aydan"    # String                                                                  #
 is_student = True # Boolean                                                                 #
 my_list = [1, 2, 3]      # List                                                             #
 my_tuple = (4, 5, 6)     # Tuple                                                            #
@@ -76,7 +76,7 @@ while count < 5:                                                                
 def greet(name):                                                                            #
     print("Hello, " + name + "!")                                                           #
 #                                                                                           #
-greet("AydanS")  # Output: Hello, AydanS!                                                   #
+greet("Aydan")  # Output: Hello, Aydan!                                                   #
 #                                                                                           #
 #############################################################################################
 

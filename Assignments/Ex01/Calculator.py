@@ -10,23 +10,7 @@
 #                                                                                           #
 #	Create a simple calculator that can add, subtract, multiply, and divide two numbers.    #
 #	Ask the user to input the numbers and the operation they want to perform.               #
-#                               
-'''
-
-
-
-
-Here's a basic outline of what you'll need to do:
-
-Prompt the user to enter the first number.
-Prompt the user to enter the operation (+, -, *, /).
-Prompt the user to enter the second number.
-Perform the requested operation and display the result.
-For example:
-
-
-
-'''                                                            #
+#                                                                                           #
 # REQUIRED UNDERSTANDING:                                                                   #
 #                                                                                           #
 #	To complete the second assignment, creating a simple calculator, you'll need a basic    #
@@ -51,7 +35,6 @@ For example:
 #                                                                                           #
 #	- Basic Outline:                                                                        #
 #		You'll Need to:                                                                     #
-#		Here's a basic outline of what you'll need to do:
 #		Prompt the user to enter the first number.                                          #
 #		Prompt the user to enter the operation (+, -, *, /).                                #
 #		Prompt the user to enter the second number.                                         #
