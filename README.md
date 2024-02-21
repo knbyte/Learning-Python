@@ -21,7 +21,7 @@ Otherwise, if you want to see each assignment individually on github the links a
 **Ex02<br>**
 [Guess the Number](https://github.com/knbyte/Learning-Python/blob/main/Assignments/Ex02/Guess-the-Number.py)<br>
 **Ex03<br>**
-**[Temperature Converter](https://github.com/knbyte/Learning-Python/blob/main/Assignments/Ex03/Temperature-Coverter.py)<br>
+[Temperature Converter](https://github.com/knbyte/Learning-Python/blob/main/Assignments/Ex03/Temperature-Coverter.py)<br>
 **Ex04<br>**
 [Factorial Calculator](https://github.com/knbyte/Learning-Python/blob/main/Assignments/Ex04/Factorial-Calculator.py)<br>
 **Ex05<br>**
