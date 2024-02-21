@@ -1,8 +1,8 @@
 I am a begginer at python myself, and I was finding it difficult to find free resources that gave me the basics of Python and a few learning assignments that let me build my skills form the ground up - so I fifured why not make one!
 
-[If you want to have a look at some of the basic python concepts, have a look here.](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Basic.py)<br>
-[If you want to have a look at some further python concepts, have a look here.](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Further-Concepts-One.py)<br>
-[If you want to have a look at some even further python concepts, have a look here.](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Further-Concepts-Two.py)<br>
+If you want to have a look at some of the basic python concepts, [have a look here](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Basic.py).<br>
+If you want to have a look at some further python concepts, [have a look here](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Further-Concepts-One.py).<br>
+If you want to have a look at some even further python concepts, [have a look here](https://github.com/knbyte/Learning-Python/blob/main/Concepts/Further-Concepts-Two.py).<br>
 <br>
 Here are some starting exercises, each one has the assignment details and skills/knowledge you'll need inside!<br>
 <br>
